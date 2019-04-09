@@ -1,0 +1,103 @@
+h1  {
+
+    font-family: 'Fredericka the Great', cursive;
+font-size: 65px;
+padding: 20px;
+
+
+
+}
+
+h3 {
+    font-family: 'Fredericka the Great', cursive;
+font-size: 45px;
+
+
+}
+
+body {
+
+   
+    color: white;
+    background-image: url("https://wallpaperplay.com/walls/full/2/f/1/68293.jpg#.XKZahvkXT8c.link");
+   
+    
+
+}
+
+.jumbotron {
+
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+   
+
+}
+
+div {
+    
+    font-family: 'Fredericka the Great', cursive;
+ 
+    color: white;
+    font-size: 30px;
+    opacity: 0.9;
+}
+
+form {
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    background-color: black;
+    color: white;
+    opacity: 0.9;
+}
+
+label {
+
+    background-color: black;
+    color: white;
+    opacity: 0.9;
+
+}
+
+.card-header {
+    background-color: black;
+    color: white;
+    opacity: 0.9;
+
+}
+
+.form-control {
+    background-color: black;
+    color: white;
+    opacity: 0.9;
+}
+
+text {
+    color:white;
+}
+
+.form-group {
+    background-color: black;
+}
+
+.card-body {
+    background-color: black;
+
+}
+
+.header {
+    margin: auto;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    opacity: 0.9;
+    top: 20px;
+    padding: 20px;
+    
+}
+
+.btn {
+    background-color: rgb(143, 138, 138);
+    color: white;
+}
